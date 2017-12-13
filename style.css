@@ -112,6 +112,7 @@ header{
     border: none;
     cursor: pointer;
     opacity: .9;
+    z-index: 1;
 }
 
 .header-container__greeting button:hover{
