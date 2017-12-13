@@ -581,7 +581,7 @@ article p{
     .header-container__greeting h1{
         padding-bottom: 20px;
         font-size: 28px;
-        padding-top: 0;
+        padding-top: -20px;
     }
     body{
         overflow-x: hidden;
