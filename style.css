@@ -89,6 +89,7 @@ header{
     width: 100%;
     color: white;
     text-align: center;
+    z-index: 1;
 }
 
 .header-container__greeting h1{
