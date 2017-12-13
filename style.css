@@ -379,7 +379,7 @@ hr{
 }
 
 .slider-blog{
-    background: url("../images/original.png"), ghostwhite;
+    background: url("original.png"), ghostwhite;
     animation: snow 10s infinite linear;
 }
 
